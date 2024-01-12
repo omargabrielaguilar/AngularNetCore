@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Learnify-AI](https://github.com/omargabrielaguilar/Learnify-AI)
 
-- 📄 Know about my experiences [https://shorturl.at/bPT23](https://shorturl.at/bPT23)
+- 📄 cv [https://shorturl.at/bPT23](https://shorturl.at/bPT23)
 
 - ⚡ Fun fact **calisthenic athleate | saas builder | unscripted lifestyle**
 
