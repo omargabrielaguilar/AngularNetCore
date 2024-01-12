@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Omar Gabriel</h1>
+<h1 align="center">Hi, I'm Omar Gabriel</h1>
 <h3 align="center">A passionate full stack developer from Trujillo, Perú</h3>
 
-- 🔭 I’m currently working on [Learnify-AI](https://github.com/omargabrielaguilar/Learnify-AI)
+- I’m currently working on [Learnify-AI](https://github.com/omargabrielaguilar/Learnify-AI)
 
-- 📄 cv [https://shorturl.at/bPT23](https://shorturl.at/bPT23)
+- cv [https://shorturl.at/bPT23](https://shorturl.at/bPT23)
 
-- ⚡ Fun fact **calisthenic athleate | saas builder | unscripted lifestyle**
+- Fun fact **calisthenic athleate | saas builder | unscripted lifestyle**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
