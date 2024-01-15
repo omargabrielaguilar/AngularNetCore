@@ -3,7 +3,7 @@
 
 - I’m currently working on personal project [Learnify-AI](https://github.com/omargabrielaguilar/Learnify-AI)
 
-- [Download cv](https://shorturl.at/djnzl)
+- [Download cv](https://shorturl.at/rCMO7)
 
 - Hobbies **calisthenic athleate | saas builder | unscripted lifestyle**
 
