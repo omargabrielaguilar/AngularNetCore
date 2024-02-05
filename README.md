@@ -5,7 +5,7 @@
 
 - I’m currently learning **Redis, Serveless, Bun**
 
-- Know **Next.js, Prisma, Typescript**
+- Know **.Net Core, Prisma, Typescript**
 
 - How to reach me **omareegab@gmail.com**
 
